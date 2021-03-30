@@ -1,1 +1,1 @@
-The project consists mainly manipulation of the frontend part and local integration with node.
+The project consists mainly manipulation of the frontend part (react and Redux ) and local integration with backend (node and mongo).
